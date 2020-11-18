@@ -1,6 +1,7 @@
 # Books
 このレポジトリでは、書籍や学習サイトで学んだナレッジを蓄積しています。
 
+・[人工知能プログラミングのための数学がわかる本](https://www.kadokawa.co.jp/product/321708000339/)
 ・[Python チュートリアル](https://www.oreilly.co.jp/books/9784873117539)<br>
 ・[Pythonによるあたらしいデータ分析の教科書](https://www.shoeisha.co.jp/book/detail/9784798158341)<br>
 ・[Pythonではじめる機械学習](https://www.oreilly.co.jp/books/9784873117980/)<br>
