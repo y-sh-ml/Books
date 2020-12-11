@@ -1,0 +1,26 @@
+=== 8-2-1　INSERT／UPDATE／DELETE
+
+image:attachment:image.png[image.png]
+
+image:attachment:image.png[image.png]
+
+image:attachment:image.png[image.png]
+
+image:attachment:image.png[image.png]
+
+
+
+
+
+
+
+
+
+
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
