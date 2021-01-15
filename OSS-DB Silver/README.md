@@ -1,1 +1,1 @@
-環境：[pgAdmin](https://www.pgadmin.org/)
+使用環境：[pgAdmin](https://www.pgadmin.org/)
