@@ -1,6 +1,7 @@
 # Books
 このレポジトリでは、書籍や学習サイトで学んだナレッジを蓄積しています。<br>
 
+・[AWS認定 ソリューションアーキテクト 合格教本](https://gihyo.jp/book/2019/978-4-297-10382-8)
 ・[人工知能プログラミングのための数学がわかる本](https://www.kadokawa.co.jp/product/321708000339/)<br>
 ・[Python チュートリアル](https://www.oreilly.co.jp/books/9784873117539)<br>
 ・[Pythonによるあたらしいデータ分析の教科書](https://www.shoeisha.co.jp/book/detail/9784798158341)<br>
