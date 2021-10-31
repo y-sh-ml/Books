@@ -19,4 +19,4 @@
 ・[PostgreSQL（OSS-DB） Silver](https://oss-db.jp/outline/silver)（2021年5月）
 
 ### 合格証書
-・
+・[証書一覧](https://github.com/y-sh-ml/Books/tree/main/%E5%90%88%E6%A0%BC%E8%A8%BC%E6%9B%B8)
