@@ -7,7 +7,7 @@ Python<br>
 ・[Python3 エンジニア認定基礎試験](https://www.pythonic-exam.com/exam/basic) （2020年12月）
 
 統計<br>
-・[統計検定 2級](https://www.toukei-kentei.jp/about/grade2/) 表彰（成績優秀賞） （2021年5月）<br>
+・[統計検定 2級](https://www.toukei-kentei.jp/about/grade2/) 表彰（成績優秀賞）（2021年5月）<br>
 
 SQL<br>
 ・[OSS-DB（PostgreSQL） Silver](https://oss-db.jp/outline/silver)（2021年5月）<br>
