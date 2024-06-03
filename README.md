@@ -6,7 +6,7 @@ Python<br>
 ・[Python3 エンジニア認定データ分析試験](https://www.pythonic-exam.com/exam/analyist) （2020年9月）<br>
 ・[Python3 エンジニア認定基礎試験](https://www.pythonic-exam.com/exam/basic) （2020年12月）
 
-統計<br>
+統計学<br>
 ・[統計検定 2級](https://www.toukei-kentei.jp/about/grade2/) 表彰（成績優秀賞）（2021年5月）<br>
 
 SQL<br>
