@@ -17,6 +17,6 @@ AWS<br>
 ・[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)（2022年1月）<br>
 
 マーケティング<br>
-・[ネットマーケティング検定](https://www.sikaku.gr.jp/nm/about/index.html)（2023年2月）<br>
+・[ネットマーケティング検定](https://www.sikaku.gr.jp/nm/prepare/)（2023年2月）<br>
 ・[マーケティング検定 3級](https://www.jma-jp.org/marken/level3)（2023年12月）<br>
 ・[マーケティング検定 2級](https://www.jma-jp.org/marken/level2)（2025年9月)
