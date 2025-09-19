@@ -18,5 +18,5 @@ AWS<br>
 
 マーケティング<br>
 ・[ネットマーケティング検定](https://www.sikaku.gr.jp/nm/about/index.html)（2023年2月）<br>
-・[マーケティング検定 3級](https://www.jma2-jp.org/marken/level3/level3_outline)（2023年12月）<br>
+・[マーケティング検定 3級](https://www.jma-jp.org/marken/level3)（2023年12月）<br>
 ・[マーケティング検定 2級](https://www.jma-jp.org/marken/level2)（2025年9月)
